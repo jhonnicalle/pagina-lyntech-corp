@@ -1,5 +1,5 @@
 .service {
-  background-image: linear-gradient( 45deg, #2f6897de 10%, #0667a0ce 95%);
+  background-image: linear-gradient( 0deg, #3b83bd 10%, #ffffffce 85%);
   padding: 30px;
 }
 
@@ -11,19 +11,51 @@
   padding: 30px;
   border-radius: 20px;
   height: 100%;
-  width: 55%;
+  width: 100%;
   background-color: #26272b;
   color: #f0f0f0;
+  margin: auto auto;
+  opacity: 0.9;
   /* background-image: linear-gradient( 1355deg, #1a43cae5 10%, #0667a0ce 95%); */
 }
 
-.card h3 {
+.card-1 {
+  background-image: url("../../images/IMAGEN-SOBRE-NOSOTROS.png");
+  border-radius: 20px;
+  /* opacity: 0.1; */
+}
+
+.card-2 {
+  background-image: url("../../images/IMAGEN-SOBRE-NOSOTROS-2.png");
+  border-radius: 20px;
+  /* opacity: 0.1; */
+}
+
+.card-3 {
+  background-image: url("../../images/IMAGEN-SOBRE-NOSOTROS-3.png");
+  border-radius: 20px;
+  /* opacity: 0.1; */
+}
+
+.card-4 {
+  background-image: url("../../images/SERVICIOS.jpg");
+  border-radius: 20px;
+  /* opacity: 0.1; */
+}
+
+.service h3 {
   font-size: 35px;
   font-weight: bold;
   margin-top: 20px;
 }
 
-ul {
+.service ul {
+  list-style-type: none;
+  margin: auto;
+  padding: inherit;
+}
+
+.service ul {
   list-style-type: none;
   margin: auto;
   padding: inherit;
