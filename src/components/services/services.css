@@ -1,0 +1,27 @@
+.service {
+  background-image: linear-gradient( 45deg, #1a43cae5 10%, #0667a0ce 95%);
+  padding: 30px;
+}
+
+.col {
+  margin-top: 20px;
+}
+
+.card {
+  padding: 30px;
+  border-radius: 20px;
+  height: 100%;
+  width: 55%;
+  /* background-image: linear-gradient( 1355deg, #1a43cae5 10%, #0667a0ce 95%); */
+}
+
+.card h3 {
+  font-size: 35px;
+  font-weight: bold;
+}
+
+ul {
+  list-style-type: none;
+  margin: auto;
+  padding: inherit;
+}

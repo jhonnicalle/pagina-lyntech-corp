@@ -1,0 +1,35 @@
+.about {
+  margin: 30px;
+}
+
+h2, h3 {
+  text-align: center;  
+}
+
+h2 {
+  margin-bottom: 15px;
+  font-size: 40px;
+}
+
+.tarjeta-1, .tarjeta-2, .tarjeta-3{
+  border: 1px solid black;
+  margin: auto;
+  padding: 10px;
+  height: 420px;
+  width: 100%;
+  border-radius: 15px;
+  -webkit-box-shadow: 0px 10px 15px -4px rgba(6,103,160,0.9); 
+  box-shadow: 0px 10px 15px -4px rgba(6,103,160,0.9);
+  display: inline-block;
+  text-align: center;
+}
+
+.symbol {
+  /* pos: auto 0; */
+  height: 70px;
+  width: 60px;
+  fill: blue;
+
+  display: block;
+  margin: 10px auto;
+}
