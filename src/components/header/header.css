@@ -46,3 +46,13 @@ h3, p {
 p {
   font-weight: bold;
 }
+
+.logo-empresa {
+	height: 150px;
+}
+
+@media screen and (max-width: 400px)  {
+	.logo-empresa {
+		height: 110px;
+	}
+}

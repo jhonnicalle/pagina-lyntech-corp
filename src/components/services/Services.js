@@ -18,7 +18,7 @@ class Services extends Component {
       speed: 500,
       slidesToShow: 2,
       slidesToScroll: 2,
-      arrows: false,
+      // arrows: false,
       responsive: [
         {
           breakpoint: 1024,
@@ -85,10 +85,10 @@ class Services extends Component {
                 <div className='card'>
                   <h3>Servicios Intermodales</h3>
                   <ul>
-                    <li>Elaboración de proyectos</li>
-                    <li>Operativa cadenas intermodales -SSS</li>
-                    <li>Desarrollo de autopistas del mar</li>
-                    <li>Proyectos para grandes cargadores</li>
+                    <li>Elaboración de Proyectos</li>
+                    <li>Operativa Cadenas Intermodales -SSS</li>
+                    <li>Desarrollo de Autopistas del Mar</li>
+                    <li>Proyectos para Grandes Cargadores</li>
                     <li>Participación en Proyectos TEN-T</li>
                     <li>Valoraciones Económicas</li>
                   </ul>
@@ -99,8 +99,8 @@ class Services extends Component {
                   <h3>Para el Conjunto del Sector</h3>
                   <ul>
                     <li>Elaboración de Planes estratégicos</li>
-                    <li>Restructuraciones y optimización de costes</li>
-                    <li>Adaptación de ERPs a las necesidades del sector</li>
+                    <li>Restructuraciones y Optimización de Costes</li>
+                    <li>Adaptación de ERPs a las Necesidades del Sector</li>
                     <li>Modelización de Herramientas de Gestión</li>
                     <li>Estudios y Optimización de Procesos</li>
                   </ul>

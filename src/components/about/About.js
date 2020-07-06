@@ -15,38 +15,40 @@ class About extends Component {
   render() {
     return(
       <div className='about'>
-        <Fade bottom cascade>
-          <h2>¿Quiénes somos?</h2>
-        </Fade>
-        <Container>
-          <Row xs={1} md={1} lg={3}>
-            <Flip left> 
-              <Col>
-                <div className='tarjeta-1'>
-                  
-                    <img className='symbol' src={mission} alt={'Mision'} />
-                    <h3>Misión</h3>
+        <div className='about-1'>
+          <Fade bottom cascade>
+            <h2>¿Quiénes somos?</h2>
+          </Fade>
+          <Container>
+            <Row xs={1} md={1} lg={3}>
+              <Flip left> 
+                <Col>
+                  <div className='tarjeta-1'>
                     
-                  <p>La misión de Lyntech Corp. es apoyar a nuestros clientes desde una perspectiva de negocio, en la optimización de sus operaciones, en la adecuación de su estructura, y en la puesta en marcha y desarrollo de nuevas oportunidades en el negocio marítimo, portuario y en procesos multimodales.</p>
-                </div>
-              </Col>
-              <Col>
-                <div className='tarjeta-2'>
-                  <img className='symbol' src={vision} alt={'Vision'}/>
-                  <h3>Visión</h3>
-                  <p>Nuestra gestión abarca todos los procesos del negocio, de manera eficiente, con un enfoque eminentemente práctico, y en apoyo continuo al cliente, siempre enfocado en generar valor a su cadena de suministros.</p>
-                </div>
-              </Col>
-              <Col>
-                <div className='tarjeta-3'>
-                  <img className='symbol' src={values} alt={'Valores'}/>
-                  <h3>Valores</h3>
-                  <p>Nuestro valor principal se encuentra en la capacidad para involucrarnos en el proyecto con el cliente, y para trabajar de forma conjunta; con altos estándares de calidad logrado durante nuestra experiencia y profesionalismo.</p>
-                </div>
-              </Col> 
-            </Flip>           
-          </Row>       
-        </Container>
+                      <img className='symbol' src={mission} alt={'Mision'} />
+                      <h3>Misión</h3>
+                      
+                    <p>La misión de Lyntech Corp. es apoyar a nuestros clientes desde una perspectiva de negocio, en la optimización de sus operaciones, en la adecuación de su estructura, y en la puesta en marcha y desarrollo de nuevas oportunidades en el negocio marítimo, portuario y en procesos multimodales.</p>
+                  </div>
+                </Col>
+                <Col>
+                  <div className='tarjeta-2'>
+                    <img className='symbol' src={vision} alt={'Vision'}/>
+                    <h3>Visión</h3>
+                    <p>Nuestra gestión abarca todos los procesos del negocio, de manera eficiente, con un enfoque eminentemente práctico, y en apoyo continuo al cliente, siempre enfocado en generar valor a su cadena de suministros.</p>
+                  </div>
+                </Col>
+                <Col>
+                  <div className='tarjeta-3'>
+                    <img className='symbol' src={values} alt={'Valores'}/>
+                    <h3>Valores</h3>
+                    <p>Nuestro valor principal se encuentra en la capacidad para involucrarnos en el proyecto con el cliente, y para trabajar de forma conjunta; con altos estándares de calidad logrado durante nuestra experiencia y profesionalismo.</p>
+                  </div>
+                </Col> 
+              </Flip>           
+            </Row>       
+          </Container>
+        </div>
       </div>
     )
   }
