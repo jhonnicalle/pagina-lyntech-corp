@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0967fa768c4dd4183b2f69503977722b",
+    "revision": "b25ed20ced0ff8add10917f7348ba0d4",
     "url": "/pagina-lyntech-corp/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/pagina-lyntech-corp/static/css/2.87451321.chunk.css"
   },
   {
-    "revision": "0adeabad04eabfdc39ad",
-    "url": "/pagina-lyntech-corp/static/css/main.2c6b5a44.chunk.css"
+    "revision": "dc46a9fde0a8e8b2abf0",
+    "url": "/pagina-lyntech-corp/static/css/main.261de7e4.chunk.css"
   },
   {
     "revision": "f0f330d43bc13b2d0072",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/pagina-lyntech-corp/static/js/2.70462fff.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0adeabad04eabfdc39ad",
-    "url": "/pagina-lyntech-corp/static/js/main.04b1e887.chunk.js"
+    "revision": "dc46a9fde0a8e8b2abf0",
+    "url": "/pagina-lyntech-corp/static/js/main.985f303e.chunk.js"
   },
   {
     "revision": "33ad765f620f53d86a1b",
@@ -46,6 +46,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "761a23e59b0b180125004df8acc86516",
     "url": "/pagina-lyntech-corp/static/media/diamante.761a23e5.svg"
+  },
+  {
+    "revision": "d4e5d4f7e6b6627d003f56192fba8b9b",
+    "url": "/pagina-lyntech-corp/static/media/imagen-puerto.d4e5d4f7.jpg"
   },
   {
     "revision": "33efa4c0614a5c3efab6b2460e45a2b2",
