@@ -23,8 +23,10 @@ class About extends Component {
             <Flip left> 
               <Col>
                 <div className='tarjeta-1'>
-                  <img className='symbol' src={mission} alt={'Mision'} />
-                  <h3>Misión</h3>
+                  
+                    <img className='symbol' src={mission} alt={'Mision'} />
+                    <h3>Misión</h3>
+                    
                   <p>La misión de Lyntech Corp. es apoyar a nuestros clientes desde una perspectiva de negocio, en la optimización de sus operaciones, en la adecuación de su estructura, y en la puesta en marcha y desarrollo de nuevas oportunidades en el negocio marítimo, portuario y en procesos multimodales.</p>
                 </div>
               </Col>
