@@ -33,10 +33,10 @@ h2 {
 
 .symbol {
   /* pos: auto 0; */
-  height: 100px;
+  height: 110px;
   
   fill: blue;
-  padding: 15px;
+  padding: 30px;
   display: block;
   margin: 10px auto;
   border: 1px solid black;
