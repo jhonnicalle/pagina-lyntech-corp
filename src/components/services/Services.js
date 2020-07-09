@@ -55,7 +55,7 @@ class Services extends Component {
           <Container>
             <Slider {...settings}>
               <div className='card-1'>
-                <div className='card'>
+                <div className='card'>                
                   <h3>Servicios Marítimos</h3>
                   <ul>
                     <li>Modelos Estratégicos de Gestión</li>
