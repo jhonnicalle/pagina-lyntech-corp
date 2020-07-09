@@ -1,7 +1,17 @@
 * {
   padding: 0;
   margin: 0;
-  box-sizing: border-box;
+	box-sizing: border-box;
+
+}
+
+@font-face {
+	font-family: 'AvenirNext';
+	src: url('../../fonts/avenir-next/AvenirNextLTPro-Regular.otf')
+}
+
+body {
+	font-family: 'AvenirNext';
 }
 
 header {
@@ -15,7 +25,7 @@ header {
 	position: relative;
 	overflow: hidden;
 	border-radius: 0 0 85% 85% / 30%;
-	
+
 }
 
 header .overlay{
@@ -30,6 +40,7 @@ header .overlay{
 header .overlay p {
 	color: #fff;
 	opacity: 1;
+	text-align: justify;
 }
 
 h1 {
@@ -38,9 +49,10 @@ h1 {
 	margin-bottom: 30px;
 }
 
-h3, p {
-	font-family: 'Open Sans', sans-serif;
-  margin-bottom: 30px;  
+h2, h3 {
+	font-weight: bold;
+	margin-bottom: 30px;
+	
 }
 
 p {

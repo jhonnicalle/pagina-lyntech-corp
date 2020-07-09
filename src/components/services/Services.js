@@ -19,7 +19,7 @@ class Services extends Component {
       slidesToShow: 2,
       slidesToScroll: 2,
       autoplay: true,
-      autoplaySpeed: 2000,
+      autoplaySpeed: 7000,
       pauseOnHover: true
       // arrows: false,
       // responsive: [
