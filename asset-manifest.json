@@ -1,32 +1,32 @@
 {
   "files": {
-    "main.css": "/pagina-lyntech-corp/static/css/main.261de7e4.chunk.css",
-    "main.js": "/pagina-lyntech-corp/static/js/main.985f303e.chunk.js",
-    "main.js.map": "/pagina-lyntech-corp/static/js/main.985f303e.chunk.js.map",
+    "main.css": "/pagina-lyntech-corp/static/css/main.7d69157a.chunk.css",
+    "main.js": "/pagina-lyntech-corp/static/js/main.bee5e2ce.chunk.js",
+    "main.js.map": "/pagina-lyntech-corp/static/js/main.bee5e2ce.chunk.js.map",
     "runtime-main.js": "/pagina-lyntech-corp/static/js/runtime-main.aa973cb1.js",
     "runtime-main.js.map": "/pagina-lyntech-corp/static/js/runtime-main.aa973cb1.js.map",
     "static/css/2.87451321.chunk.css": "/pagina-lyntech-corp/static/css/2.87451321.chunk.css",
     "static/js/2.70462fff.chunk.js": "/pagina-lyntech-corp/static/js/2.70462fff.chunk.js",
     "static/js/2.70462fff.chunk.js.map": "/pagina-lyntech-corp/static/js/2.70462fff.chunk.js.map",
     "index.html": "/pagina-lyntech-corp/index.html",
-    "precache-manifest.1244b1af6d04d6eeded6cc0504269cb2.js": "/pagina-lyntech-corp/precache-manifest.1244b1af6d04d6eeded6cc0504269cb2.js",
+    "precache-manifest.d6ba88a6c09fd9d40526e1fcb788ed7b.js": "/pagina-lyntech-corp/precache-manifest.d6ba88a6c09fd9d40526e1fcb788ed7b.js",
     "service-worker.js": "/pagina-lyntech-corp/service-worker.js",
     "static/css/2.87451321.chunk.css.map": "/pagina-lyntech-corp/static/css/2.87451321.chunk.css.map",
-    "static/css/main.261de7e4.chunk.css.map": "/pagina-lyntech-corp/static/css/main.261de7e4.chunk.css.map",
+    "static/css/main.7d69157a.chunk.css.map": "/pagina-lyntech-corp/static/css/main.7d69157a.chunk.css.map",
     "static/js/2.70462fff.chunk.js.LICENSE.txt": "/pagina-lyntech-corp/static/js/2.70462fff.chunk.js.LICENSE.txt",
     "static/media/services.css": "/pagina-lyntech-corp/static/media/SERVICIOS.b565c236.jpg",
-    "static/media/diamante.svg": "/pagina-lyntech-corp/static/media/diamante.761a23e5.svg",
     "static/media/about.css": "/pagina-lyntech-corp/static/media/imagen-puerto.d4e5d4f7.jpg",
-    "static/media/lyntech_logo-01.png": "/pagina-lyntech-corp/static/media/lyntech_logo-01.33efa4c0.png",
-    "static/media/mision.svg": "/pagina-lyntech-corp/static/media/mision.4867141f.svg",
-    "static/media/slick-theme.css": "/pagina-lyntech-corp/static/media/slick.f97e3bbf.svg",
-    "static/media/vision.svg": "/pagina-lyntech-corp/static/media/vision.a510da4d.svg"
+    "static/media/logistica.svg": "/pagina-lyntech-corp/static/media/logistica.67fb2711.svg",
+    "static/media/lyntech_logo.png": "/pagina-lyntech-corp/static/media/lyntech_logo.5a45760e.png",
+    "static/media/mar.svg": "/pagina-lyntech-corp/static/media/mar.ab1b3788.svg",
+    "static/media/puerto.svg": "/pagina-lyntech-corp/static/media/puerto.466e3453.svg",
+    "static/media/slick-theme.css": "/pagina-lyntech-corp/static/media/slick.f97e3bbf.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.aa973cb1.js",
     "static/css/2.87451321.chunk.css",
     "static/js/2.70462fff.chunk.js",
-    "static/css/main.261de7e4.chunk.css",
-    "static/js/main.985f303e.chunk.js"
+    "static/css/main.7d69157a.chunk.css",
+    "static/js/main.bee5e2ce.chunk.js"
   ]
 }
