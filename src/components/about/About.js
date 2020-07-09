@@ -5,11 +5,9 @@ import Row from 'react-bootstrap/Row'
 import Col from 'react-bootstrap/Col'
 import Fade from 'react-reveal/Fade';
 import Flip from 'react-reveal/Flip';
-import mission from '../../images/mision.svg'
-import vision from '../../images/vision.svg'
-import values from '../../images/diamante.svg'
-
-
+import mission from '../../images/mar.svg'
+import vision from '../../images/puerto.svg'
+import values from '../../images/logistica.svg'
 
 class About extends Component {
   render() {

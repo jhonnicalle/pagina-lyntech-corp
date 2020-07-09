@@ -18,33 +18,36 @@ class Services extends Component {
       speed: 500,
       slidesToShow: 2,
       slidesToScroll: 2,
+      autoplay: true,
+      autoplaySpeed: 2000,
+      pauseOnHover: true
       // arrows: false,
-      responsive: [
-        {
-          breakpoint: 1024,
-          settings: {
-            slidesToShow: 2 ,
-            slidesToScroll: 2,
-            infinite: true,
-            dots: true
-          }
-        },
-        {
-          breakpoint: 750,
-          settings: {
-            slidesToShow: 1,
-            slidesToScroll: 1,
-            initialSlide: 1
-          }
-        },
-        {
-          breakpoint: 480,
-          settings: {
-            slidesToShow: 1,
-            slidesToScroll: 1
-          }
-        }
-      ]
+      // responsive: [
+      //   {
+      //     breakpoint: 1024,
+      //     settings: {
+      //       slidesToShow: 2 ,
+      //       slidesToScroll: 2,
+      //       infinite: true,
+      //       dots: true
+      //     }
+      //   },
+      //   {
+      //     breakpoint: 750,
+      //     settings: {
+      //       slidesToShow: 1,
+      //       slidesToScroll: 1,
+      //       initialSlide: 1
+      //     }
+      //   },
+      //   {
+      //     breakpoint: 480,
+      //     settings: {
+      //       slidesToShow: 1,
+      //       slidesToScroll: 1
+      //     }
+      //   }
+      // ]
     };
     return(
       <Fade bottom cascade>

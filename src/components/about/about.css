@@ -1,6 +1,6 @@
 .about {
   margin: 30px auto;
-  background: url('../../images/imagen-puerto.jpg');
+  background: linear-gradient(white, url('../../images/imagen-puerto.jpg') 20%) ;
   width: 100%;
   
 }
@@ -45,7 +45,7 @@ h2 {
   height: 110px;
   
   fill: blue;
-  padding: 30px;
+  padding: 10px;
   display: block;
   margin: 10px auto;
   border: 1px solid black;
