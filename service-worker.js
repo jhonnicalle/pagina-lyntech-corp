@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/pagina-lyntech-corp/precache-manifest.d6ba88a6c09fd9d40526e1fcb788ed7b.js"
+  "/pagina-lyntech-corp/precache-manifest.3be1e71ba18c24c5f3fc486b17901a64.js"
 );
 
 self.addEventListener('message', (event) => {
