@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ab9139731ce17778f9f688338b4ec6b2",
+    "revision": "2f077816c77c8d7db415937052889efd",
     "url": "/pagina-lyntech-corp/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/pagina-lyntech-corp/static/css/2.87451321.chunk.css"
   },
   {
-    "revision": "3671e1b796e95a03b8b7",
-    "url": "/pagina-lyntech-corp/static/css/main.22082be5.chunk.css"
+    "revision": "84b5f9c00e3ba926fb19",
+    "url": "/pagina-lyntech-corp/static/css/main.76285e1b.chunk.css"
   },
   {
     "revision": "f0f330d43bc13b2d0072",
@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/pagina-lyntech-corp/static/js/2.70462fff.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3671e1b796e95a03b8b7",
+    "revision": "84b5f9c00e3ba926fb19",
     "url": "/pagina-lyntech-corp/static/js/main.469c47e6.chunk.js"
   },
   {
@@ -30,10 +30,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "b5ed933057eaf1919dd79d81248cdbce",
     "url": "/pagina-lyntech-corp/static/media/AvenirNextLTPro-Regular.b5ed9330.otf"
-  },
-  {
-    "revision": "00698a684a4ed4e2aeeff159246a0677",
-    "url": "/pagina-lyntech-corp/static/media/IMAGEN-SOBRE-NOSOTROS.00698a68.png"
   },
   {
     "revision": "b565c2367426e5917b624d3e3f718b2b",

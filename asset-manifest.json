@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/pagina-lyntech-corp/static/css/main.22082be5.chunk.css",
+    "main.css": "/pagina-lyntech-corp/static/css/main.76285e1b.chunk.css",
     "main.js": "/pagina-lyntech-corp/static/js/main.469c47e6.chunk.js",
     "main.js.map": "/pagina-lyntech-corp/static/js/main.469c47e6.chunk.js.map",
     "runtime-main.js": "/pagina-lyntech-corp/static/js/runtime-main.aa973cb1.js",
@@ -9,10 +9,10 @@
     "static/js/2.70462fff.chunk.js": "/pagina-lyntech-corp/static/js/2.70462fff.chunk.js",
     "static/js/2.70462fff.chunk.js.map": "/pagina-lyntech-corp/static/js/2.70462fff.chunk.js.map",
     "index.html": "/pagina-lyntech-corp/index.html",
-    "precache-manifest.3be1e71ba18c24c5f3fc486b17901a64.js": "/pagina-lyntech-corp/precache-manifest.3be1e71ba18c24c5f3fc486b17901a64.js",
+    "precache-manifest.06fdb688a6da0138e5350aab338c30e7.js": "/pagina-lyntech-corp/precache-manifest.06fdb688a6da0138e5350aab338c30e7.js",
     "service-worker.js": "/pagina-lyntech-corp/service-worker.js",
     "static/css/2.87451321.chunk.css.map": "/pagina-lyntech-corp/static/css/2.87451321.chunk.css.map",
-    "static/css/main.22082be5.chunk.css.map": "/pagina-lyntech-corp/static/css/main.22082be5.chunk.css.map",
+    "static/css/main.76285e1b.chunk.css.map": "/pagina-lyntech-corp/static/css/main.76285e1b.chunk.css.map",
     "static/js/2.70462fff.chunk.js.LICENSE.txt": "/pagina-lyntech-corp/static/js/2.70462fff.chunk.js.LICENSE.txt",
     "static/media/header.css": "/pagina-lyntech-corp/static/media/AvenirNextLTPro-Regular.b5ed9330.otf",
     "static/media/services.css": "/pagina-lyntech-corp/static/media/SERVICIOS.b565c236.jpg",
@@ -27,7 +27,7 @@
     "static/js/runtime-main.aa973cb1.js",
     "static/css/2.87451321.chunk.css",
     "static/js/2.70462fff.chunk.js",
-    "static/css/main.22082be5.chunk.css",
+    "static/css/main.76285e1b.chunk.css",
     "static/js/main.469c47e6.chunk.js"
   ]
 }
