@@ -15,21 +15,12 @@
   background-color: #26272bab;
   color: #f0f0f0;
   margin: auto auto;
-  opacity: 1;
-  /* background-image: linear-gradient( 1355deg, #1a43cae5 10%, #0667a0ce 95%); */
 }
 
-.card-1, .card-2, .card-3{
+.card-1, .card-2, .card-3, .card-4 {
+  background: url("../../images/SERVICIOS.jpg") no-repeat center center;
   background-size: cover;
-  background-image: url("../../images/IMAGEN-SOBRE-NOSOTROS.png");
   border-radius: 20px;
-}
-
-.card-4 {
-  background-size: cover;
-  background-image: url("../../images/SERVICIOS.jpg");
-  border-radius: 20px;
-  /* opacity: 0.1; */
 }
 
 .service h3 {
@@ -40,7 +31,7 @@
 
 ul {
   /* list-style-type: none; */
-  margin: auto;
+  margin: 0 auto;
   font-weight: bold;
   font-size: 20px;
 }
