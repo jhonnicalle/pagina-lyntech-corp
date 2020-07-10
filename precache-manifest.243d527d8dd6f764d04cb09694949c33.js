@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2f077816c77c8d7db415937052889efd",
+    "revision": "b24aa6c9949944b165c84c1528eb8a81",
     "url": "/pagina-lyntech-corp/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/pagina-lyntech-corp/static/css/2.87451321.chunk.css"
   },
   {
-    "revision": "84b5f9c00e3ba926fb19",
-    "url": "/pagina-lyntech-corp/static/css/main.76285e1b.chunk.css"
+    "revision": "1db61c8c50b82d47f9ee",
+    "url": "/pagina-lyntech-corp/static/css/main.57f309af.chunk.css"
   },
   {
     "revision": "f0f330d43bc13b2d0072",
@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/pagina-lyntech-corp/static/js/2.70462fff.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "84b5f9c00e3ba926fb19",
+    "revision": "1db61c8c50b82d47f9ee",
     "url": "/pagina-lyntech-corp/static/js/main.469c47e6.chunk.js"
   },
   {
