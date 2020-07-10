@@ -63,8 +63,20 @@ p {
 	height: 150px;
 }
 
+@media screen and (max-width: 450px)  {
+	.logo-empresa {
+		height: 120px;
+	}
+}
+
 @media screen and (max-width: 400px)  {
 	.logo-empresa {
 		height: 110px;
+	}
+}
+
+@media screen and (max-width: 350px)  {
+	.logo-empresa {
+		height: 90px;
 	}
 }

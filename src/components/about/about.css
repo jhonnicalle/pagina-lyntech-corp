@@ -79,6 +79,10 @@ h2 {
 }
 
 @media screen and (max-width: 400px)  {
+  .about-1 h2 {
+    font-size: 30px;
+  } 
+
   .tarjeta-1, .tarjeta-2, .tarjeta-3{
     height: 500px;
   }
